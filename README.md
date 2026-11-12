@@ -25,6 +25,9 @@
 
 ## ✨ Features of Voicemod Pro
 
+
+
+
 <div align="center">
 
 | 🔓 **All-In Unlocked** <br><sub>Pro voices, effects, and custom voice lab unlocked by default</sub> | 👤 **Anonymous Core** <br><sub>No login, no mandatory subscription checks, and zero telemetry</sub> |
