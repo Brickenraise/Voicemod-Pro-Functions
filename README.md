@@ -33,6 +33,8 @@
 
 </div>
 
+
+
 <div align="center">
 
 | 🎮 **Game Integration** <br><sub>Seamless direct mapping for Discord, VRChat, Games & VoIP apps</sub> |
